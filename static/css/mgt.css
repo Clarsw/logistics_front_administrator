@@ -1,0 +1,80 @@
+.container-right .data-box{
+  color: black;
+  background-color: #E6E9EE;
+  padding:20px;
+  border-radius: 2px;
+}
+.container-right .data-box .el-table{
+  min-height: 523px;
+}
+.container-right .search-banner{
+  position: relative;
+  height: 60px;
+  background-color: white;
+  border-radius: 1px;
+}
+.container-right .search-banner .angle{
+  content: '';
+  width: 0;
+  height: 0;
+  border: 20px solid;
+  border-color: #CACED7 #ffffff #ffffff #CACED7;
+  box-shadow: 3px 3px 8px #888888;
+}
+.container-right .search-banner .search-box {
+  position: absolute;
+  top:10px;
+  left: 60px;
+  width: 200px;
+}
+.container-right .search-banner .search-box .el-input__inner {
+  border-radius: 4px 0 0 4px;
+}
+
+.container-right .search-banner .search-btn{
+  position: absolute;
+  top: 0;
+  left: 200px;
+  height: 40px;
+  width: 50px;
+  background-color: #4984E2;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}
+/*option*/
+.container-right .search-banner .select-box{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  /*width: 800px;*/
+  /*background-color: red;*/
+}
+.container-right .search-banner .select-box .select{
+  display: inline-block;
+  margin-right: 10px;
+}
+.container-right .search-banner .select-box .option-description{
+  display: inline-block;
+  color: black;
+}
+.container-right .search-banner .select-box .el-select{
+  width: 180px;
+}
+/*.el-select-dropdown {*/
+/*z-index: 999 !important;*/
+/*}*/
+/*底部按钮和分页码*/
+.container-right .data-box .bottom-main{
+  position: relative;
+  margin-top:20px;
+}
+.container-right .data-box .bottom-main .function-btn{
+ height: 40px;
+}
+.container-right .data-box .bottom-main .pagination-box{
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
