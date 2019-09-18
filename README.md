@@ -5,6 +5,10 @@
 
 前台客户使用部分项目地址为https://github.com/Clarsw/logistics_front_customer
 
+演示地址为：https://clarsw.github.io/logistics_admin/dist/index.html
+
+注意：1.测试数据都是存放在网页版的easy-mock中，由于官方网站最近不稳定，可能导致无法登陆，以及数据获取等问题。
+
 > A Vue.js project
 
 ## Build Setup
