@@ -14,7 +14,7 @@
     "@vue-materials/basic-container": "^1.0.0",
     "echarts": "^4.2.1",
     "element-ui": "^2.7.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "qs": "^6.7.0",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.2",
